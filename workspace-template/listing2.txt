@@ -1,0 +1,15 @@
+.
+..
+.bash_logout
+.bashrc
+.bashrc.original
+.config
+.face
+.face.icon
+.java
+listing1.txt
+listing2.txt
+.local
+.profile
+.zprofile
+.zshrc

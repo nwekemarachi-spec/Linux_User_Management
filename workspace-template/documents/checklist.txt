@@ -1,0 +1,4 @@
+Template only — create your own checklist in nano during the practical.
+[ ] Verify the new Linux user account.
+[ ] Create and inspect the practical workspace.
+[ ] Verify configuration, searches, and permissions.

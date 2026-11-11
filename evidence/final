@@ -1,0 +1,13 @@
+/home/user01/linux-practical/
+├── app.config
+├── backup
+│   ├── app.config
+│   └── overview.txt
+├── config
+│   └── app.config
+├── documents
+│   ├── overview.txt
+│   └── tasks.txt
+└── evidence
+
+5 directories, 6 files

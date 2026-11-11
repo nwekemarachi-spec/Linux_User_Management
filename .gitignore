@@ -1,0 +1,17 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Never commit secrets or private credentials
+.env
+.env.*
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# Temporary output
+*.tmp
+*.log

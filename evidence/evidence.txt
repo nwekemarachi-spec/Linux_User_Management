@@ -1,0 +1,11 @@
+/home/user01/linux-practical
+/home/user01/linux-practical/documents
+/home/user01/linux-practical/documents/tasks.txt
+/home/user01/linux-practical/documents/overview.txt
+/home/user01/linux-practical/evidence
+/home/user01/linux-practical/backup
+/home/user01/linux-practical/backup/app.config
+/home/user01/linux-practical/backup/overview.txt
+/home/user01/linux-practical/app.config
+/home/user01/linux-practical/config
+/home/user01/linux-practical/config/app.config

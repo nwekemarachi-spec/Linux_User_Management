@@ -1,0 +1,4 @@
+total 8
+-rw-rw-r-- 1 user01 user01  13 Nov 10 04:18 listing1.txt
+-rw-rw-r-- 1 user01 user01 133 Nov 10 04:20 listing2.txt
+-rw-rw-r-- 1 user01 user01   0 Nov 10 04:22 listing3.txt
